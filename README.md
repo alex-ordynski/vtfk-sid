@@ -38,7 +38,7 @@ core/
 Візьми знімок ядра з окремого репозиторію — по гілці на ніч:
 
 ```bash
-git clone -b after-lab04 git@github.com:AlexOrd/vtfk-sid-reference.git vtfk-sid
+git clone -b after-lab04 https://github.com/alex-ordynski/vtfk-sid-reference.git vtfk-sid
 ```
 
 Знімок — це **робочий стан, а не розв'язок**: у ньому лише те, що дає рівень 1 попередньої
